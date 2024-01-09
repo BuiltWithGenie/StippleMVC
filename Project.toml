@@ -1,0 +1,12 @@
+name = "StippleMVC"
+uuid = "7f79d986-2c85-4e1d-ba00-596a09012758"
+authors = ["Pere Giménez <gimenezfebrer@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Genie = "c43c736e-a2d1-11e8-161f-af95117fbd1e"
+GenieFramework = "a59fdf5c-6bf0-4f5d-949c-a137c9e2f353"
+Inflector = "6d011eab-0732-4556-8808-e463c76bf3b6"
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
