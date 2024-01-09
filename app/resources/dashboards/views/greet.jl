@@ -1,1 +1,1 @@
-[h1("Hello "), textfield(:name)]
+page(model,[h1("Hello {{name}}"), textfield("Enter name", :name)])
